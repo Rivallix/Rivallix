@@ -2,4 +2,4 @@
 - 👀 I’m interested in many Projects, but the most in the **Paper Minecraft server**.
 - 🌱 I’m currently learning **Java** and **C++**
 - 💞️ I’m looking to collaborate on the **PaperMC Project**.
-- 📫 You can reach me by joining our Discord server or contact me about my Email **development@rivallix.de**
+- 📫 You can reach me by joining our Discord server
