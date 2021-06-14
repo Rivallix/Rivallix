@@ -1,5 +1,5 @@
 - 👋 Hi, my name is **@Rivallix**
-- 👀 I’m interested in **Minecraft server software** and **Minecraft Anti Cheats**.
-- 🌱 I’m currently learning **Java**
-- 💞️ I’m looking to collaborate on the **PaperMC Project**.
-- 📫 You can reach me by joining our Discord server
+- 👀 I’m interested in **Game Development** 🎮 and **Pixel Art** 👾.
+- 🌱 I’m currently learning **C and C++**
+- 💞️ I’m looking to collaborate on the **raylib Project**.
+- 📫 You can reach me by joining our Discord server or via E-mail.
