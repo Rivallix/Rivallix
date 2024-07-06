@@ -1,5 +1,0 @@
-- 👋 Hi, my name is **@Rivallix**
-- 👀 I’m interested in **Game Development** 🎮 and **Pixel Art** 👾.
-- 🌱 I’m currently learning **C and Java**
-- 💞️ I’m looking to collaborate on the **Mindustry Game**.
-- 📫 You can reach me by joining our **Discord** server (**🚧 In construction**) or via **E-mail**.
